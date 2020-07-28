@@ -1,0 +1,1 @@
+In the code word_level_model, i have written a very simple and understandable code to predict the text, i have used it to predict the lyrics of the songs. The code is a word model as the name suggest, it uses pretrained GLoVe weights of dim 100. This model is an update to my previous character based model. This model is also many to one.
